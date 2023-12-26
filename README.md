@@ -1,8 +1,10 @@
 # Frontend Simple Projects for December 2023
 
-### I made them with the help and collaboration with FreeCodeCamp Instructors
+## In collaboration with FreeCodeCamp Instructors
 
-# Create a new repository on the command line
+I tried to make this projects with the help and FreeCodeCamp instructors!
+
+### Create a new repository on the command line
 
 The following are codes for pushing my stuffs on GitHub
 
@@ -16,4 +18,4 @@ git remote add origin <https://github.com/Gadrawingz/fcc-2023-frontend-projects.
 git push -u origin main
 ```
 
-### Happy coding and Merry Xmas if you enjoy it
+### Happy coding and Merry X-mas if you enjoy it!
