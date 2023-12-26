@@ -18,4 +18,4 @@ git remote add origin <https://github.com/Gadrawingz/fcc-2023-frontend-projects.
 git push -u origin main
 ```
 
-### Happy coding and Merry X-mas if you enjoy it!
+### Happy coding and new year of 2024 and Merry X-mas
