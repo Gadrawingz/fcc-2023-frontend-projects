@@ -14,6 +14,7 @@
         $("h1").click(function(){
             $(this).addClass("blue").fadeOut("animated fade");
         });
+        $("#infolist").accordion({autoHeight: false});
     });
       
     </script>
@@ -22,6 +23,19 @@
       .blue {
         color: rgb(81, 81, 187);
       }
+
+      ul {
+        list-style-type: none
+      }
+      
+      img {
+        padding: 20px; 
+        float:left
+      }
+      #infolist {
+        width:500px
+      }
+
     </style>
   </head>
   <body>
